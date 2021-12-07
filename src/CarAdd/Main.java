@@ -16,7 +16,5 @@ public class Main {
         for (Car tmp : car) {
             System.out.println(tmp);
         }
-
     }
-
 }
